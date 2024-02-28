@@ -295,49 +295,46 @@ body {
   color: #0f0f0f;
 }
 /*SubClasse projetos*/
+.sb-titulo{
+  margin-left: 40px;
+}
+.cont5{
+  display: flex;
+  justify-content: space-around;
 
+}
 .imagemJogo {
   height: 250px;
   width: auto;
   padding-bottom: 20px;
-}
-.capaJogo {
-  position: absolute;
-  left: 265px;
 }
 
 .txtJogo {
   color: #0f0f0f;
   font: bold 18px Arial;
   text-align: justify;
-  position: absolute;
   height: auto;
   width: 550px;
-  right: 300px;
-  top: 320px;
+}
+.cont-trailer{
+  display: flex;
+  justify-content: space-evenly;
 }
 .trailer {
   height: 250px;
 }
 .txtTrailer {
+  margin-top: 80px;
   color: #0f0f0f;
   font: bold 18px Arial;
-  text-align: justify;
-  position: absolute;
   height: auto;
   width: 550px;
-  right: 200px;
-  top: 950px;
 }
 .txtTrailer2 {
   color: #0f0f0f;
   font: bold 18px Arial;
-  text-align: justify;
-  position: absolute;
   height: auto;
   width: 550px;
-  right: 200px;
-  top: 1300px;
 }
 .txtTrailer3 {
   color: #0f0f0f;
